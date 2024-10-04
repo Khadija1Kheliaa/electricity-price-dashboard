@@ -5,9 +5,18 @@ __pycache__/
 # Virtual environments
 venv/
 env/
+.venv/
+ENV/
 
 # VS Code settings
 .vscode/
 
 # Environment variables
 .env
+
+# macOS specific
+.DS_Store
+
+# Streamlit specific
+.streamlit/
+*.log
