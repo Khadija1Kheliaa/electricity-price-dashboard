@@ -20,3 +20,5 @@ ENV/
 # Streamlit specific
 .streamlit/
 *.log
+
+.python-version
